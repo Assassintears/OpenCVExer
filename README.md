@@ -6,5 +6,5 @@
 指定Mat对象数据类型的方式：CV_8U（uchar），CV_32S（int）， CV_32F（float），CV_64F（double）
 
 * Mat对象数据连续的含义以及data和step的用法如下图所示：<br>
-![Mat数据](https://github.com/OpenCVExer/imgs/Mat数据连续性.jpg)  
+![](https://github.com/Assassintears/OpenCVExer/raw/master/imgs/Mat数据连续性.jpg)  
 
